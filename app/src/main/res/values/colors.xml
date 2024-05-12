@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="maubackground">#E4584F</color>
+    <color name="maubutton">#E83D3D</color>
+    <color name="blacknblack">#000000</color>
+    <color name="gray">#D9D9D9</color>
+    <color name="xanhlink">#709dd2</color>
+    <color name="fab_color">#6B6AFF</color>
+    <color name="user_back_color">#6965FF</color>
+    <color name="bot_back_color">#203757</color>
+    <color name="gold">#FFD700</color>
+    <color name="dark_orchid">#9932CC</color>
+    <color name="vang_nhat">#F5D76E </color>
+    <color name="xlc">#A8E6CF</color>
+    <color name="xanhnhat">#69D2E7</color>
+</resources>
